@@ -11,3 +11,6 @@
 * "Um, no..."
 
 * "Oh, please."
+
+* "RTFM"
+    * Prententious is not productive.
