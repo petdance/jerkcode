@@ -14,3 +14,5 @@
 
 * "RTFM"
     * Prententious is not productive.
+
+* "butthurt"
