@@ -16,3 +16,5 @@
     * Prententious is not productive.
 
 * "butthurt"
+
+* "politically correct"
