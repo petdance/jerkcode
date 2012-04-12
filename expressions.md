@@ -21,3 +21,6 @@
 
 * "well, actually"
     * http://tirania.org/blog/archive/2011/Feb-17.html
+
+* "coddled"
+    * "Treated with basic human respect"
