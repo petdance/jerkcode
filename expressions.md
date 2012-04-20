@@ -27,3 +27,13 @@
 
 * "Lighten up"
     * "Your feelings are silly and I don't care to deal with them."
+
+* "Can't you just..."
+    * Not sure this is a jerk thing to say, but it's certainly short-sighted.
+
+* "You should..."
+
+# Random idea scraps
+
+Some things that people say can be well-meaning, or they can be
+passive-aggressive.
