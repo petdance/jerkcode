@@ -24,3 +24,6 @@
 
 * "coddled"
     * "Treated with basic human respect"
+
+* "Lighten up"
+    * "Your feelings are silly and I don't care to deal with them."
