@@ -1,3 +1,6 @@
-jerkcode.com is a website for helping translate all the coded things
-the jerks in your day-to-day life say.  This GitHub repository is
-the source for the website.
+I have this crazy vision where jerkcode.com will be a repository
+of demeaning things that jerks say to us, how to interpret them,
+and how to deal with them.
+
+For now, I'm merely accumulating material in the expressions.md
+file.
