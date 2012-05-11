@@ -33,6 +33,8 @@
 
 * "You should..."
 
+* "Get a real OS"
+
 # Random idea scraps
 
 Some things that people say can be well-meaning, or they can be
