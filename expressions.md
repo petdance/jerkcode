@@ -19,6 +19,8 @@
 
 * "politically correct"
 
+* "sugar-coating the truth"
+
 * "well, actually"
     * http://tirania.org/blog/archive/2011/Feb-17.html
 
