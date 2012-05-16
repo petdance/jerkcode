@@ -45,7 +45,10 @@
     * Also not necessarily jerk-like, but may be underinformed and thereby pompous.
 
 * "Get a real OS"
-    * "I know noting about your situation, and I either don't care to learn about the real bases of your problem, or feel intellectually threatened because I can't come up with a quick answer that makes me look good, so I'll demean you by pretending it's objectively stupid to be using the software you are using." 
+    * "I know noting about your situation, and I either don't care to learn about the real bases of your problem, or feel intellectually threatened because I can't come up with a quick answer that makes me look good, so I'll demean you by pretending it's objectively stupid to be using the software you are using."
+
+* "white knighting"
+    * Used to disparage someone who stands up against the abusive language of others.
 
 # Random idea scraps
 
