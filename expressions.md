@@ -1,5 +1,6 @@
 * "Someone has too much time on his hands."
     * "This guy spent his time in a way different than I would, and I think it's stupid", which is insulting enough, but then you go ahead and show everyone, so it's really not so stupid, is it?
+    * "I am very uncomfortable with your willingness to express your love for something so extensively and in public, so I will pretend that doing this is a waste of resources even though they were not mine to allocate."
 
 * "I'm just saying."
     * "I know how I just treated you was inexcusable but I'm going to pretend there was nothing wrong with it."
