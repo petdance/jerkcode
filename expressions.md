@@ -44,6 +44,9 @@
 * "You should..."
     * Also not necessarily jerk-like, but may be underinformed and thereby pompous.
 
+* "I would have just..."
+    * "I have absolutely no respect for your response to that particular situation, but I'm egotistical enough to believe that my way would have been better no matter what, despite the fact that I really have no reason to think I would have responded any differently under the same circumstances."
+
 * "Get a real OS"
     * "I know noting about your situation, and I either don't care to learn about the real bases of your problem, or feel intellectually threatened because I can't come up with a quick answer that makes me look good, so I'll demean you by pretending it's objectively stupid to be using the software you are using."
 
