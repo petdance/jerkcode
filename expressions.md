@@ -51,8 +51,9 @@
 * "Get a real OS"
     * "I know noting about your situation, and I either don't care to learn about the real bases of your problem, or feel intellectually threatened because I can't come up with a quick answer that makes me look good, so I'll demean you by pretending it's objectively stupid to be using the software you are using."
 
-* "white knighting"
+* "white knight"
     * Used to disparage someone who stands up against the abusive language of others.
+    * http://blogs.perl.org/users/joe_mcmahon1/2012/09/white-knight-a-meditation.html
 
 * "Let's just agree to disagree"
     * "I don't want to learn anything from your perspective, and I don't want to substantiate my own claims, so I'm ending further discussion now."
