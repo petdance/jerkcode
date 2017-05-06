@@ -55,6 +55,9 @@
     * Used to disparage someone who stands up against the abusive language of others.
     * http://blogs.perl.org/users/joe_mcmahon1/2012/09/white-knight-a-meditation.html
 
+* "virtue signaling"
+    * Used to shame or silence someone for trying to be a good example.
+    
 * "Let's just agree to disagree"
     * "I don't want to learn anything from your perspective, and I don't want to substantiate my own claims, so I'm ending further discussion now."
      
