@@ -57,10 +57,13 @@
 
 * "virtue signaling"
     * Used to shame or silence someone for trying to be a good example.
-    
+
 * "Let's just agree to disagree"
     * "I don't want to learn anything from your perspective, and I don't want to substantiate my own claims, so I'm ending further discussion now."
-     
+
+* "You do you"
+    * "I think you're full of shit but I'm going to pretend to be nice about it."
+
 # Random idea scraps
 
 Some things that people say can be well-meaning, or they can be
