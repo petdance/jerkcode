@@ -64,6 +64,9 @@
 * "You do you"
     * "I think you're full of shit but I'm going to pretend to be nice about it."
 
+* "Must be nice"
+    * Used to bring down the happiness of someone else.
+
 # Random idea scraps
 
 Some things that people say can be well-meaning, or they can be
